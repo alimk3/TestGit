@@ -1,0 +1,2 @@
+This is my first text in Git
+Just playing around
